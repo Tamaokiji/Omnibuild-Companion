@@ -1,0 +1,15 @@
+{
+    "name": "Razor",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS ",
+            "artifacts": "A Day Carved from Rising Winds 4pc, Echoes of an Offering 4pc ",
+            "teams": [
+                "Hexerei, Superconduct"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

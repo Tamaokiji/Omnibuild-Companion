@@ -1,0 +1,15 @@
+{
+    "name": "Nefer",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Main-Dps ",
+            "artifacts": "Night of the Sky's Unveiling 4pc ",
+            "teams": [
+                "Lunar Bloom, Lunar Bloom (F2P)"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

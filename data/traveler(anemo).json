@@ -1,0 +1,15 @@
+{
+    "name": "Traveler(Anemo)",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Viridescent Venerer 4pc ",
+            "teams": [
+                "Double Anemo, Swirl"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

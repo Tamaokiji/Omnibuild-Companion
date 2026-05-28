@@ -1,0 +1,15 @@
+{
+    "name": "Yoimiya",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Shimenawa's Reminiscence 4pc  ",
+            "teams": [
+                "Vaporize, Overload"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

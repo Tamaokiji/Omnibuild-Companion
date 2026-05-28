@@ -1,0 +1,15 @@
+{
+    "name": "Traveler(Hydro)",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Nymph's Dream 2pc, Golden Troupe 2pc ",
+            "teams": [
+                "Freeze, Bloom"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Navia",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Nighttime Whispers 4pc, or Gladiator's Finale 2pc, Archaic Petra 2pc",
+            "teams": [
+                "Hyper, Sub-DPS"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

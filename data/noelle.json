@@ -1,0 +1,15 @@
+{
+    "name": "Noelle",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Support, Shielder, Healer ",
+            "artifacts": "Husk of Opulent Dreams 4pc, Marechasussee Hunter 4pc ",
+            "teams": [
+                "Hypercarry, Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

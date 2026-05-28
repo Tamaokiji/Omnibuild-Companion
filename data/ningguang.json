@@ -1,0 +1,15 @@
+{
+    "name": "Ningguang",
+    "element": "Geo",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Support ",
+            "artifacts": "Nighttime Whispers in the Echoing woods 4pc  ",
+            "teams": [
+                "Hyper"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

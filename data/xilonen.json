@@ -1,0 +1,15 @@
+{
+    "name": "Xilonen",
+    "element": "Geo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Res-Shred Support",
+            "artifacts": "4pc Scroll of the Hero",
+            "teams": [
+                "Universal Support for any team"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Sara",
+    "element": "Electro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Support, Buffer ",
+            "artifacts": "Emblem of Severed Fate 4pc ",
+            "teams": [
+                "Overload"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

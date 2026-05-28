@@ -1,0 +1,15 @@
+{
+    "name": "Venti",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS, Buffer ",
+            "artifacts": "A Day Carved from Rising Winds 4pc",
+            "teams": [
+                "Hypercarry"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

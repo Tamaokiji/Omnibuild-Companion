@@ -1,0 +1,15 @@
+{
+    "name": "Xiao",
+    "element": "Anemo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Long Night's Oath 4pc, Vermillion Hereafter 4pc  ",
+            "teams": [
+                "Hyper, Double Anemo"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

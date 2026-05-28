@@ -1,0 +1,15 @@
+{
+    "name": "Xianyun",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Support, Healer, Buffer ",
+            "artifacts": "Virdescent Venerer 4pc, Song of Days Past 4pc ",
+            "teams": [
+                "Hyper, Vaporize"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

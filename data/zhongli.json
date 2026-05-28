@@ -1,0 +1,15 @@
+{
+    "name": "Zhongli",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Support, Shielder ",
+            "artifacts": "Tenacity of the Millelith 4pc ",
+            "teams": [
+                "Hypercarry, Physical"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

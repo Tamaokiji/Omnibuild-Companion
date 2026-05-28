@@ -1,0 +1,15 @@
+{
+    "name": "Traveler(Pyro)",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Scroll of the Hero of Cinder City 4pc ",
+            "teams": [
+                "Melt, Vaporize,Burn, Burgeon "
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

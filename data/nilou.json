@@ -1,0 +1,15 @@
+{
+    "name": "Nilou",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Tenacity of the Millelith 2pc, or Vourukasha's Glow 2pc ",
+            "teams": [
+                "Luama Bloom, Triple, Double"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

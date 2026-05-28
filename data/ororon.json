@@ -1,0 +1,15 @@
+{
+    "name": "Ororon",
+    "element": "Electro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Scroll of the Hero of Cinder City ",
+            "teams": [
+                "Electro-Charge"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Mavuika",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Archon DPS",
+            "artifacts": "4pc Obsidian Codex",
+            "teams": [
+                "Vaporize, Bennett"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

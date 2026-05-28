@@ -1,0 +1,15 @@
+{
+    "name": "Zibai",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Lunar DPS",
+            "artifacts": "4pc Unfinished Reverie",
+            "teams": [
+                "Navia, Furina"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

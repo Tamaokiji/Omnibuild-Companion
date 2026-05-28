@@ -1,0 +1,15 @@
+{
+    "name": "Sethos",
+    "element": "Electro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS",
+            "artifacts": "Wanderer's Troupe 4pc, or Gilded Dreams 4pc",
+            "teams": [
+                "Aggravate, HyperBloom"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Yun Jin",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Support, Buffer ",
+            "artifacts": "Husk of Opulent Dreams 4pc ",
+            "teams": [
+                "Hyper, Mono Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}
