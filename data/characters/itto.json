@@ -1,0 +1,15 @@
+{
+    "name": "Itto",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Husk of the Opulent Dreams 4pc ",
+            "teams": [
+                "Mono Geo, Geo Flex"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

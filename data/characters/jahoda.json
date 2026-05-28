@@ -1,0 +1,15 @@
+{
+    "name": "Jahoda",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Healer ",
+            "artifacts": "Viridescent Venerer 4pc ",
+            "teams": [
+                "Team Arlecchino/ Team Clorinde"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

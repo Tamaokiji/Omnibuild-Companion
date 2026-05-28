@@ -1,0 +1,15 @@
+{
+    "name": "Kokomi",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS, Support, Healer ",
+            "artifacts": "Flower of Paradise Lost 4pc ",
+            "teams": [
+                "Bloom, Lauma Bloom"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

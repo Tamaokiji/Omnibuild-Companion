@@ -1,0 +1,15 @@
+{
+    "name": "Amber",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Nobesse Oblige 4pc ",
+            "teams": [
+                "Vaporize, Pyro"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

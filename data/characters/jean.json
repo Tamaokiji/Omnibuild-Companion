@@ -1,0 +1,15 @@
+{
+    "name": "Jean",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Support, Healer ",
+            "artifacts": "Gladiator's Finale 2pc, Virdescent Venerer 2pc ",
+            "teams": [
+                "Jean-Furina, Sunfire"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

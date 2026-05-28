@@ -1,0 +1,15 @@
+{
+    "name": "Citlali",
+    "element": "Cyro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Support, Shielder ",
+            "artifacts": "Scroll of the Hero of Cinder City 4pc ",
+            "teams": [
+                "Melt(with Mavuika), Freeze-Melt (with Arlecchino)"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

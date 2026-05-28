@@ -1,0 +1,15 @@
+{
+    "name": "Chiori",
+    "element": "Geo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Golden Troupe 4pc, or Husk of Opulent Dreams 4pc ",
+            "teams": [
+                "Mono Geo, Double Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

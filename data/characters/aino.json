@@ -1,0 +1,15 @@
+{
+    "name": "Aino",
+    "element": "Hydro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Off-field/DPS ",
+            "artifacts": "Silken Moon's Serenade 4pc ",
+            "teams": [
+                "Flins Lunar Charge/ Nilou Bloom"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

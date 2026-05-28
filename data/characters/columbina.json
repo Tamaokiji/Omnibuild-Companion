@@ -1,0 +1,15 @@
+{
+    "name": "Columbina",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Buffer ",
+            "artifacts": "Silken Moon's Serenade 4pc/ Aubade of Morningstar and Moon 4pc ",
+            "teams": [
+                "Lunar Charged/ Lunar Cystallized"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

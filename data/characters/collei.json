@@ -1,0 +1,15 @@
+{
+    "name": "Collei",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support ",
+            "artifacts": "Deepwood Memories 4pc",
+            "teams": [
+                "Quicken, Burgeon"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

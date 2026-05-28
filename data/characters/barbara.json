@@ -1,0 +1,15 @@
+{
+    "name": "Barbara",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Support, Healer ",
+            "artifacts": "Ocean-Hued Clam 4pc, Maiden Beloved 4pc ",
+            "teams": [
+                "Electro-Charge"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

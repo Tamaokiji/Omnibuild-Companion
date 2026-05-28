@@ -1,0 +1,15 @@
+{
+    "name": "Lyney",
+    "element": "Pyro",
+    "weapon": "Main DPS",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Marechaussee Hunter 4pc ",
+            "teams": [
+                "Mono Pyro"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Alhaitham",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Glided Dream 4pc ",
+            "teams": [
+                "Quickbloom, Spread"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

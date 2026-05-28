@@ -1,0 +1,15 @@
+{
+    "name": "Lisa",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Gilded Dreams 4pc ",
+            "teams": [
+                "Raiden, Clorinde, HyperBloom"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

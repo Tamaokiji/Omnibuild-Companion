@@ -1,0 +1,15 @@
+{
+    "name": "Fischl",
+    "element": "Electro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Buffer ",
+            "artifacts": "Golden Troupe 4pc ",
+            "teams": [
+                "Hexerei, Superconduct"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Freminet",
+    "element": "Cyro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Pale Flame 4pc  ",
+            "teams": [
+                "Physical"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

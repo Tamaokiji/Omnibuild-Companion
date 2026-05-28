@@ -1,0 +1,15 @@
+{
+    "name": "Illuga",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Support, Buffer ",
+            "artifacts": "Silken Moon's Serenade ",
+            "teams": [
+                "Zibai Premium, Lunar Navia"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

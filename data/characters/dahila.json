@@ -1,0 +1,15 @@
+{
+    "name": "Dahila",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Support, Shielder ",
+            "artifacts": "Noblesse Oblige 4pc, or 2pc Emblem of Severed Fate and 2pc Tenacity of the Millelith ",
+            "teams": [
+                "Freeze, Normal ATK Team"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}
