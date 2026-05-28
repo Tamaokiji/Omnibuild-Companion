@@ -134,7 +134,7 @@ def main(page: ft.Page):
         for container_btn in element_row.controls:
             text_inside = container_btn.content
             if text_inside.value == current_element_filter:
-                text_inside.color, container_btn.border = "blue400", ft.border.all(1, "blue400")
+                text_inside.color, container_btn.Border = "blue400", ft.border.all(1, "blue400")
             else:
                 text_inside.color, container_btn.border = "white", None
         element_row.update()
