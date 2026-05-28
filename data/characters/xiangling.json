@@ -1,0 +1,15 @@
+{
+    "name": "Xiangling",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "National Sub-DPS ",
+            "artifacts": "4pc Emblem of Severed Fate",
+            "teams": [
+                "Xiangling + Bennett + Xingqiu + Sucrose/ National team"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

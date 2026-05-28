@@ -1,0 +1,15 @@
+{
+    "name": "Yelan",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Buffer ",
+            "artifacts": "Emblem of Severed Fate 4pc ",
+            "teams": [
+                "Hyperbloom, Vaporize"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

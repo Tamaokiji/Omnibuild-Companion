@@ -1,0 +1,15 @@
+{
+    "name": "Traveler(Geo)",
+    "element": "Geo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS ",
+            "artifacts": "Nighttime Whispers in the Echoing woods 4pc, Emblem of Severed Fate 4pc ",
+            "teams": [
+                "Geo Core, Mono Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

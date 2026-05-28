@@ -1,0 +1,15 @@
+{
+    "name": "Sucrose",
+    "element": "Anemo",
+    "weapon": "Caatlyst",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Buffer ",
+            "artifacts": "Viridescent Venerer 4pc ",
+            "teams": [
+                "Hexerei, Taser,Rainbow"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

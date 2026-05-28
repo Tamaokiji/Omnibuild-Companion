@@ -1,0 +1,15 @@
+{
+    "name": "Xingqiu",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Healer ",
+            "artifacts": "Emblem of Severed Fate 4pc ",
+            "teams": [
+                "Hyperbloom, Overvape, Lauma Bloom"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

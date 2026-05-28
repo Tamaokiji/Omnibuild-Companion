@@ -1,0 +1,15 @@
+{
+    "name": "Skirk",
+    "element": "Cyro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "DPS ",
+            "artifacts": "Finale of the Deep Gallieries ",
+            "teams": [
+                "Freeze, Freeze (F2P)"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

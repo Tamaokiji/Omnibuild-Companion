@@ -1,0 +1,15 @@
+{
+    "name": "Yanfei",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS ",
+            "artifacts": "Crimson Witch of Flames 4pc ",
+            "teams": [
+                "Vaporize, Overload"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

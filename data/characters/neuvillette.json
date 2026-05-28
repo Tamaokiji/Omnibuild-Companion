@@ -1,0 +1,15 @@
+{
+    "name": "Neuvillette",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Charged Attacker",
+            "artifacts": "4pc Marechaussee Hunter",
+            "teams": [
+                "Furina, Kazuha"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

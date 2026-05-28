@@ -1,0 +1,15 @@
+{
+    "name": "Sigewienne",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Support, Healer, Buffer ",
+            "artifacts": "Ocean-Hued Clam 4pc, or Song of Days Past ",
+            "teams": [
+                "Double-Geo, Hyperbloom"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Shinobu",
+    "element": "Electro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Healer ",
+            "artifacts": "Flower of Paradise Lost 4pc ",
+            "teams": [
+                "Hyperbloom, Lauma Hyperbloom"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

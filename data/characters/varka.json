@@ -1,0 +1,15 @@
+{
+    "name": "Varka",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "A Day Carved from Rising Winds 4pc ",
+            "teams": [
+                "Hexrai Characters/ Mona, Jean, Furina"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

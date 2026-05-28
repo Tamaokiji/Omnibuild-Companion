@@ -1,0 +1,15 @@
+{
+    "name": "Nahida",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Buffer ",
+            "artifacts": " Deepwood Memories 4pc ",
+            "teams": [
+                "Lauma Bloom, HyperBloom, Spread"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

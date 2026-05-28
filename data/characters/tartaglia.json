@@ -1,0 +1,15 @@
+{
+    "name": "Tartaglia",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Nymph's Dream 4pc ",
+            "teams": [
+                "Vaporize, Electro-Charge"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

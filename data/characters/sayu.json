@@ -1,0 +1,15 @@
+{
+    "name": "Sayu",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Healer ",
+            "artifacts": "Viridescent Venerer 4pc ",
+            "teams": [
+                "Rainbow, Freeze"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}
