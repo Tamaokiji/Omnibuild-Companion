@@ -137,7 +137,7 @@ def main(page: ft.Page):
 
     element_row = ft.Row(scroll="auto", spacing=8, controls=[
         ft.Container(content=ft.Text(el, color="blue400" if el == "All" else "white", weight="bold"),
-                     padding=ft.padding.symmetric(horizontal=12, vertical=6), border_radius=8,
+                     padding=ft.Padding.symmetric(horizontal=12, vertical=6), border_radius=8,
                      border=ft.border.all(1, "blue400") if el == "All" else None,
                      on_click=on_element_click) for el in elements
     ])
