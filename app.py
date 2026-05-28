@@ -136,7 +136,7 @@ def main(page: ft.Page):
             if text_inside.value == current_element_filter:
                 text_inside.color, container_btn.Border = "blue400", ft.border.all(1, "blue400")
             else:
-                text_inside.color, container_btn.border = "white", None
+                text_inside.color, container_btn.Border = "white", None
         element_row.update()
         apply_filters()
 
