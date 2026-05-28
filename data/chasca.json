@@ -1,0 +1,15 @@
+{
+    "name": "Chasca",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Obsidian Codex 4pc ",
+            "teams": [
+                "Lunar, Taser"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

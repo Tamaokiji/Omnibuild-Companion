@@ -1,0 +1,15 @@
+{
+    "name": "Albedo",
+    "element": "Geo",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Buffer ",
+            "artifacts": "Husk of Opulent Dreams 4pc, Golden Troupe 4pc ",
+            "teams": [
+                "Hexerei Team, Mono Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

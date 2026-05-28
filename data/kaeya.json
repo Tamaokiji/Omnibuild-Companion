@@ -1,0 +1,15 @@
+{
+    "name": "Kaeya",
+    "element": "Cyro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Freeze Sub-DPS ",
+            "artifacts": "4pc Blizzard Strayer ",
+            "teams": [
+                "Ayaka, Kokomi, Kazuha"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

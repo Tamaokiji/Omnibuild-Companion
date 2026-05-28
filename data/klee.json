@@ -1,0 +1,15 @@
+{
+    "name": "Klee",
+    "element": "Main DPS",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": " A Day Carved from Rising Winds 4pc ",
+            "teams": [
+                "Hexerei, Overload"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

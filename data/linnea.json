@@ -1,0 +1,15 @@
+{
+    "name": "Linnea",
+    "element": "Geo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS/Support ",
+            "artifacts": "Aubade of Morningstar and Moon 4pc / Husk of Opulent Dreams 4pc  ",
+            "teams": [
+                "Lunar-Cystallize"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

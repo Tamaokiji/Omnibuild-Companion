@@ -1,0 +1,15 @@
+{
+    "name": "Escoffier",
+    "element": "Cyro",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS, Support, Healer ",
+            "artifacts": "Golden Troupe 4pc ",
+            "teams": [
+                "Freeze Team Ayaka, Freeze Team Neuvillette, Freeze Team Skirk"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

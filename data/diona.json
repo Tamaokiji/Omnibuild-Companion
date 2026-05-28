@@ -1,0 +1,15 @@
+{
+    "name": "Diona",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Support, Shielder, Healer, Buffer ",
+            "artifacts": "Pale Flame 2pc, Bloodstained Chivalry 2pc ",
+            "teams": [
+                "Melt"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

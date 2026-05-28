@@ -1,0 +1,15 @@
+{
+    "name": "Dehya",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS, Support ",
+            "artifacts": "Scroll of the Hero of Cinder City ",
+            "teams": [
+                "Overload, Hyper"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

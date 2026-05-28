@@ -1,0 +1,15 @@
+{
+    "name": "Diluc",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Crimson Witch of Flames 4pc, Marechaussee Hunter 4pc ",
+            "teams": [
+                "Plunge, Vaporize"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

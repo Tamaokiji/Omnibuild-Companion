@@ -1,0 +1,15 @@
+{
+    "name": "Baizhu",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "recommended_builds": [
+        {
+            "name": "Support, Healer, Shielder, Buffer ",
+            "artifacts": "Deepwood Memories 4pc ",
+            "teams": [
+                "Hyperbloom, Aggravate"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

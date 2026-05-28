@@ -1,0 +1,17 @@
+{
+    "name": "Furina",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Sub-DPS/Damage Buffer",
+            "artifacts": "4pc Golden Troupe",
+            "teams": [
+                "Neuvillette Hypercarry",
+                "Noelle Geo",
+                "Hu Tao Double Hydro"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

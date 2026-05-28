@@ -1,0 +1,15 @@
+{
+    "name": "Ayato",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "recommended_builds": [
+        {
+            "name": "Main DPS, Sub-DPS ",
+            "artifacts": "Echoes of an Offering ",
+            "teams": [
+                "Rainbow, Vaporize"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

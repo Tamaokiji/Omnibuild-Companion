@@ -1,0 +1,15 @@
+{
+    "name": "Kaveh",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Flower of Paradise Lost 4pc ",
+            "teams": [
+                "Bloom, Lauma Bloom"
+            ],
+            "stats": "Sands: ATK% | Goblet: Physical/Elemental DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Candance",
+    "element": "Hydro",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Support, Shielder ",
+            "artifacts": " Emblem of Severed Fate 4pc ",
+            "teams": [
+                "Bloom, Electro-Charged"
+            ],
+            "stats": "Sands: Energy Recharge | Goblet: Elemental DMG | Circlet: EM"
+        }
+    ]
+}

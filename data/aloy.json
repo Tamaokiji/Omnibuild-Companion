@@ -1,0 +1,15 @@
+{
+    "name": "Aloy",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Main DPS ",
+            "artifacts": "Wanderer's Troupe 2pc, Blizzard Strayer 2pc ",
+            "teams": [
+                "Freeze"
+            ],
+            "stats": "Sands: ATK% | Goblet: Elemental DMG | Circlet: CRIT DMG"
+        }
+    ]
+}

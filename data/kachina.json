@@ -1,0 +1,15 @@
+{
+    "name": "Kachina",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "recommended_builds": [
+        {
+            "name": "Sub-Dps",
+            "artifacts": "Scroll of the Hero of Cinder City 4pc ",
+            "teams": [
+                "Rainbow, Mono Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}

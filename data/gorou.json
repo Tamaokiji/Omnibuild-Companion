@@ -1,0 +1,15 @@
+{
+    "name": "Gorou",
+    "element": "Geo",
+    "weapon": "Bow",
+    "recommended_builds": [
+        {
+            "name": "Support, Buffer ",
+            "artifacts": "Husk of Opulent Dreams 2pc, Emblem of Severed Fate 2pc ",
+            "teams": [
+                "Geo"
+            ],
+            "stats": "Sands: DEF% or ATK% | Goblet: Geo DMG | Circlet: CRIT Rate"
+        }
+    ]
+}
